@@ -2,7 +2,8 @@
 
 This is a Netflix_Clone (Front-end part only)
 
-### Live website link: 
+### Live website link:   https://650829b925bea358979fd435--heartfelt-souffle-d0ccaf.netlify.app/
+
 https://abhisek2004.github.io/Clone_Netflix/
 
 
